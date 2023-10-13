@@ -70,7 +70,7 @@
   * Proxies
   * SSL
   * ICMP
-  * SNMP
+  * SNMP <br>
 -----------  MISC  -----------
   * NetBIOS
   * SMB
